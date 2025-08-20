@@ -4,8 +4,8 @@
 ## Installation
 
 1. Clone the repository or download: `git clone https://github.com/DevKing001/panel`
-   `curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -`
-   `apt-get install nodejs git`
+`curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -`
+`apt-get install nodejs git`
 
 3. Go to the panel directory: `cd v4panel`
 
