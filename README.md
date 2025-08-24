@@ -9,7 +9,7 @@
 
 3. `apt-get install nodejs git`
 
-4. Go to the panel directory: `cd v4panel`
+4. Go to the panel directory: `cd panel`
 
 5. Install some important things: `apt install zip -y && unzip panel.zip`
 
